@@ -1,10 +1,11 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int n= nums.size();
+        int n = nums.size();
         vector<int> result(2);
-        int index =0;
-        for(int i = 0; i < n; ++i) {
+        int index = 0;
+
+        for (int i = 0; i < n; ++i) {
             bool found = false;
             for (int j = 0; j < n; ++j) {
                 if (i != j && nums[i] == nums[j]) {
@@ -19,7 +20,7 @@ public:
                 }
             }
         }
-        return result;
 
+        return result;
     }
 };
