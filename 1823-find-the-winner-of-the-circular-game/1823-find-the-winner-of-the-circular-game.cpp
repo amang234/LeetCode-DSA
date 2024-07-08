@@ -1,7 +1,16 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-        if(n==1) return 1;
-        return (findTheWinner(n-1,k)+k-1)%n+1;
+        vector<int> circle;
+        for(int i = 1;i<=n;i++){
+            circle.push_back(i);
+        }
+        int cur_ind = 0;
+        while(circle.size()>1){
+            int next = (cur_ind + k-1) % circle.size();
+            circle.erase(circle.begin() + next);
+            cur_ind = next;
+        }
+        return circle[0];
     }
 };
