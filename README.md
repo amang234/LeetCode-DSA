@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amang234/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1364-tuple-with-same-product](https://github.com/amang234/LeetCode-DSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amang234/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/amang234/LeetCode-DSA/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amang234/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/amang234/LeetCode-DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/amang234/LeetCode-DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -25,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/amang234/LeetCode-DSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amang234/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
