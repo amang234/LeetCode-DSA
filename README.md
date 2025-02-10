@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amang234/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amang234/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/amang234/LeetCode-DSA/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/amang234/LeetCode-DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/amang234/LeetCode-DSA/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/amang234/LeetCode-DSA/tree/master/2448-count-number-of-bad-pairs) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/amang234/LeetCode-DSA/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
