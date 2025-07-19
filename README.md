@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/amang234/LeetCode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/amang234/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/amang234/LeetCode-DSA/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/amang234/LeetCode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amang234/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amang234/LeetCode-DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amang234/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/amang234/LeetCode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/amang234/LeetCode-DSA/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/amang234/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/amang234/LeetCode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/amang234/LeetCode-DSA/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/amang234/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/amang234/LeetCode-DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/amang234/LeetCode-DSA/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/amang234/LeetCode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/amang234/LeetCode-DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/amang234/LeetCode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/amang234/LeetCode-DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/amang234/LeetCode-DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/amang234/LeetCode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/amang234/LeetCode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/amang234/LeetCode-DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/amang234/LeetCode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Linked List
 |  |
 | ------- |
