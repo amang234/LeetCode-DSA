@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/amang234/LeetCode-DSA/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/amang234/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/amang234/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/amang234/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/amang234/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/amang234/LeetCode-DSA/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/amang234/LeetCode-DSA/tree/master/0797-rabbits-in-forest) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/amang234/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/amang234/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/amang234/LeetCode-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amang234/LeetCode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amang234/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/amang234/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/amang234/LeetCode-DSA/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amang234/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/amang234/LeetCode-DSA/tree/master/1628-count-submatrices-with-all-ones) |
