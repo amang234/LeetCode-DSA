@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amang234/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amang234/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/amang234/LeetCode-DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/amang234/LeetCode-DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/amang234/LeetCode-DSA/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/amang234/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/amang234/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/amang234/LeetCode-DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/amang234/LeetCode-DSA/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/amang234/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/amang234/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/amang234/LeetCode-DSA/tree/master/0806-domino-and-tromino-tiling) |
